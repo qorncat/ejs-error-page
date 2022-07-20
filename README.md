@@ -5,6 +5,6 @@ Error Page for EJS
  npm install
  npm start
  ```
-<img src="./scrsht1.png"></img>
-<img src="./scrsht2.png"></img>
-<img src="./scrsht3.png"></img>
+<img src="scrsht1.png"></img>
+<img src="scrsht2.png"></img>
+<img src="scrsht3.png"></img>
