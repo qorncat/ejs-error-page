@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const path = require('path')
-const PORT = 5000
+const PORT = process.env.PORT
 app.set("view engine", 'ejs')
 app.use("/styles",express.static(__dirname + "/styles"))
 
