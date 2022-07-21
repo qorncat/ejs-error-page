@@ -1,0 +1,6 @@
+{
+  "name": "EJS ERROR Page",
+  "description": "Code author is qorncat",
+  "repository": "https://github.com/qorncat/ejs-error-page",
+  "keywords": ["node", "express", "static"]
+}
